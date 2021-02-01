@@ -4,4 +4,4 @@
 - 🌱 No momento estou tendo contado com as seguintes tecnologias: Java, JavaScript, Angular,VueJs e NodeJs.
 - 📫 Linkedin: https://www.linkedin.com/in/thaisquirinoo/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisquirino&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisquirino&layout=compact)
